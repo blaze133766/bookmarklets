@@ -1,0 +1,1 @@
+javascript:void((()=>{let s=document.createElement('script');s.type='text/javascript';s.src='https://cdn.jsdelivr.net/gh/Ray-Adams/NitroType-Account-Generator@latest/account_generator.js';document.body.appendChild(s)})())
